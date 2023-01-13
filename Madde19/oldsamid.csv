@@ -1,0 +1,7 @@
+DN,sAMAccountName
+"OU=IT,OU=Ankara,OU=Kullanicilar,DC=HAKAN,DC=LOCAL",
+"CN=AIT1,OU=IT,OU=Ankara,OU=Kullanicilar,DC=HAKAN,DC=LOCAL",AIT.1
+"CN=AIT2,OU=IT,OU=Ankara,OU=Kullanicilar,DC=HAKAN,DC=LOCAL",AIT.2
+"CN=AIT3,OU=IT,OU=Ankara,OU=Kullanicilar,DC=HAKAN,DC=LOCAL",AIT.3
+"CN=AIT4,OU=IT,OU=Ankara,OU=Kullanicilar,DC=HAKAN,DC=LOCAL",AIT.4
+"CN=AITGP,OU=IT,OU=Ankara,OU=Kullanicilar,DC=HAKAN,DC=LOCAL",AITGP

@@ -1,0 +1,19 @@
+dsadd ou ou=Kullanicilar,dc=HAKAN,dc=local
+dsadd ou ou=Ankara,ou=Kullanicilar,dc=HAKAN,dc=local
+dsadd ou ou=IK,ou=Ankara,ou=Kullanicilar,dc=HAKAN,dc=local
+dsadd ou ou=IT,ou=Ankara,ou=Kullanicilar,dc=HAKAN,dc=local
+dsadd ou ou=Lojistik,ou=Ankara,ou=Kullanicilar,dc=HAKAN,dc=local
+
+dsadd ou ou=Istanbul,ou=Kullanicilar,dc=HAKAN,dc=local
+dsadd ou ou=Satis,ou=Istanbul,ou=Kullanicilar,dc=HAKAN,dc=local
+dsadd ou ou=Finans,ou=Istanbul,ou=Kullanicilar,dc=HAKAN,dc=local
+dsadd ou ou=Muhasebe,ou=Istanbul,ou=Kullanicilar,dc=HAKAN,dc=local
+
+
+dsadd ou ou=Makineler,dc=HAKAN,dc=local
+dsadd ou ou=Ankara,ou=Makineler,dc=HAKAN,dc=local
+dsadd ou ou=Server,ou=Ankara,ou=Makineler,dc=HAKAN,dc=local
+dsadd ou ou=Client,ou=Ankara,ou=Makineler,dc=HAKAN,dc=local
+dsadd ou ou=Istanbul,ou=Makineler,dc=HAKAN,dc=local
+dsadd ou ou=Server,ou=Istanbul,ou=Makineler,dc=HAKAN,dc=local
+dsadd ou ou=Client,ou=Istanbul,ou=Makineler,dc=HAKAN,dc=local
